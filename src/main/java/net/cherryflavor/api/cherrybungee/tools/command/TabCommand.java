@@ -1,6 +1,6 @@
 package net.cherryflavor.api.cherrybungee.tools.command;
 
-import net.cherryapi.bungee.tools.Chat;
+import net.cherryflavor.api.cherrybungee.tools.Chat;
 
 import java.util.List;
 
